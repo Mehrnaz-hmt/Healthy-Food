@@ -188,3 +188,7 @@ letter-spacing: 0.75px;
 .grid--center-v {
     align-items: center;
 }
+
+strong {
+    font-weight: 500;
+}
